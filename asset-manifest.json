@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dawntech/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dawntech/static/js/main.27df3392.chunk.js",
+    "main.js.map": "/dawntech/static/js/main.27df3392.chunk.js.map",
+    "runtime-main.js": "/dawntech/static/js/runtime-main.4ad31bd1.js",
+    "runtime-main.js.map": "/dawntech/static/js/runtime-main.4ad31bd1.js.map",
+    "static/js/2.a925df73.chunk.js": "/dawntech/static/js/2.a925df73.chunk.js",
+    "static/js/2.a925df73.chunk.js.map": "/dawntech/static/js/2.a925df73.chunk.js.map",
+    "index.html": "/dawntech/index.html",
+    "precache-manifest.b0b74ced5be614126df20f3a98fa53c1.js": "/dawntech/precache-manifest.b0b74ced5be614126df20f3a98fa53c1.js",
+    "service-worker.js": "/dawntech/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dawntech/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a925df73.chunk.js.LICENSE.txt": "/dawntech/static/js/2.a925df73.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dawntech/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ad31bd1.js",
+    "static/js/2.a925df73.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.27df3392.chunk.js"
+  ]
+}
