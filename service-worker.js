@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dawntech/precache-manifest.c6e44fe7597f87aab17b0c4dafd7b39f.js"
+  "/dawntech/precache-manifest.b9facb4cdca9786f055e72a6702a34a2.js"
 );
 
 self.addEventListener('message', (event) => {
