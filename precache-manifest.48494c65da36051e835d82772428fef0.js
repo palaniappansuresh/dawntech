@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c631e942dcbcc09ced6bd084f643d0e",
+    "revision": "b0f88f7fde224c36d245261c5f80eca4",
     "url": "/dawntech/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dawntech/static/css/2.d34346ea.chunk.css"
   },
   {
-    "revision": "e64e223557c738b83e98",
+    "revision": "4c52a84c94d5b7f9e53d",
     "url": "/dawntech/static/css/main.c36ad26b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dawntech/static/js/2.8a6bce34.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e64e223557c738b83e98",
-    "url": "/dawntech/static/js/main.ea0bf1dc.chunk.js"
+    "revision": "4c52a84c94d5b7f9e53d",
+    "url": "/dawntech/static/js/main.1ba0624e.chunk.js"
   },
   {
     "revision": "ca9228edee582aedfd36",
